@@ -1,0 +1,53 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.7vzkOJ36dJhvKd2JJ3bBLQHaEK?rs=1&pid=ImgDetMain);
+    margin: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+
+h2 {
+    text-align: center;
+    color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fut {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.basket {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    color: chocolate;
+    text-align: center;
+}
+.centro {
+    text-align: center;
+}
+article{
+    text-align: center;
+    color: white;
+}
+button:hover{
+    color: red;
+    background-color: chocolate;
+}
+ul{
+    display: inline;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
